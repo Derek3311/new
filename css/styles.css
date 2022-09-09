@@ -1,0 +1,15 @@
+
+body{
+  margin: 0;
+}
+
+
+.Top-container{
+  background-color: #6FEDD6;
+  padding-top: 20px ;
+  padding-bottom: 20px;
+}
+
+p{
+ padding: 1.2rem;
+}
